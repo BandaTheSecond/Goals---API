@@ -47,6 +47,14 @@
       "category": "Fun and foods",
       "deadline": "2025-07-31",
       "savedAmount": 300000
+    },
+    {
+      "id": "cf7f",
+      "name": "Farm Tomotoes",
+      "targetAmount": "300000",
+      "category": "Agriculture",
+      "deadline": "2025-08-08",
+      "savedAmount": 350000
     }
   ]
 }
